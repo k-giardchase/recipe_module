@@ -1,0 +1,4 @@
+name = Recipe Module
+description = Custom module to display recipe information
+package = Custom
+core = 7.x
